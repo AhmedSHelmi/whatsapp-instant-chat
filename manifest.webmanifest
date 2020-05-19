@@ -1,0 +1,15 @@
+{
+    "background_color": "green",
+    "description": "starts quick whatsapp chats",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "192x192",
+        "type": "image/ico"
+      }
+    ],
+    "name": "Whatsapp chats",
+    "short_name": "WPChats",
+    "start_url": "/index.html"
+  }
