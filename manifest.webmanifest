@@ -1,7 +1,7 @@
 {
     "background_color": "green",
     "description": "starts quick whatsapp chats",
-    //"display": "fullscreen",
+    "display": "fullscreen",
     "icons": [
       {
         "src": "favicon.ico",
