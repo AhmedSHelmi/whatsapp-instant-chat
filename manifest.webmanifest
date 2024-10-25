@@ -11,5 +11,5 @@
     ],
     "name": "Whatsapp chats",
     "short_name": "WPChats",
-    "start_url": "/"
+    "start_url": "/whatsapp-instant-chat/"
   }
